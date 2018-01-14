@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+ehthumbs.db
+npm-debug.log
+Desktop.ini
+.idea/
+node_modules/
